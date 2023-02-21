@@ -1,0 +1,15 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.3.0"
+  }
+}
